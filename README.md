@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiphax&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiphax&layout=donut)](https://github.com/Kiphax/github-readme-stats)
 <!--
 **Kiphax/Kiphax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
