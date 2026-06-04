@@ -10,7 +10,7 @@
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiphax&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Dev Quote
+### Dev Quote
 The expert in anything was once a beginner.
 
 <!--
